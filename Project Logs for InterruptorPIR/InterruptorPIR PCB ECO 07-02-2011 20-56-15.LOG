@@ -1,0 +1,53 @@
+Added Component: Designator=C?(RAD-0.3)
+Added Component: Designator=C?(RAD-0.3)
+Added Component: Designator=C?(CAPPR2-5x6.8)
+Added Component: Designator=D?(1N4148SMD)
+Added Component: Designator=D?(DIODE-0.7)
+Added Component: Designator=J?(PIN1)
+Added Component: Designator=P?(Header2Macho)
+Added Component: Designator=P?(RegletaPCBx3)
+Added Component: Designator=Q?(SOT95P240-3N)
+Added Component: Designator=Q?(SFM-T3/A2.4V)
+Added Component: Designator=R?(0805_RES)
+Added Component: Designator=R?(0805_RES)
+Added Component: Designator=R?(AXIAL-0.5)
+Added Pin To Net: NetName=CARGAL Pin=P?-3
+Added Pin To Net: NetName=CARGAL Pin=Q?-2
+Added Net: Name=CARGAL
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=D?-1
+Added Pin To Net: NetName=GND Pin=P?-2
+Added Pin To Net: NetName=GND Pin=Q?-3
+Added Net: Name=GND
+Added Pin To Net: NetName=L Pin=C?-1
+Added Pin To Net: NetName=L Pin=C?-2
+Added Pin To Net: NetName=L Pin=D?-2
+Added Pin To Net: NetName=L Pin=P?-1
+Added Pin To Net: NetName=L Pin=P?-1
+Added Pin To Net: NetName=L Pin=Q?-1
+Added Net: Name=L
+Added Pin To Net: NetName=NetC?_1 Pin=C?-1
+Added Pin To Net: NetName=NetC?_1 Pin=R?-2
+Added Net: Name=NetC?_1
+Added Pin To Net: NetName=NetC?_2 Pin=C?-2
+Added Pin To Net: NetName=NetC?_2 Pin=D?-1
+Added Pin To Net: NetName=NetC?_2 Pin=D?-2
+Added Net: Name=NetC?_2
+Added Pin To Net: NetName=NetJ?_1 Pin=J?-1
+Added Pin To Net: NetName=NetJ?_1 Pin=R?-2
+Added Net: Name=NetJ?_1
+Added Pin To Net: NetName=NetQ?_1 Pin=Q?-1
+Added Pin To Net: NetName=NetQ?_1 Pin=R?-2
+Added Net: Name=NetQ?_1
+Added Pin To Net: NetName=NetQ?_2 Pin=Q?-2
+Added Pin To Net: NetName=NetQ?_2 Pin=R?-1
+Added Net: Name=NetQ?_2
+Added Pin To Net: NetName=NetQ?_3 Pin=Q?-3
+Added Pin To Net: NetName=NetQ?_3 Pin=R?-1
+Added Net: Name=NetQ?_3
+Added Pin To Net: NetName=N Pin=C?-1
+Added Pin To Net: NetName=N Pin=P?-2
+Added Pin To Net: NetName=N Pin=R?-1
+Added Net: Name=N
+Added Class: Name=FuenteAlimentacion
+Added Room: Name=FuenteAlimentacion

@@ -1,0 +1,7 @@
+   Printed Document[FuenteAlimentacion.SchDoc]
+   Printed Document[FuenteAlimentacion.SchDoc]
+
+Files Generated   : 0
+Documents Printed : 2
+
+Finished Output Generation At 20:42:06 On 10/02/2011

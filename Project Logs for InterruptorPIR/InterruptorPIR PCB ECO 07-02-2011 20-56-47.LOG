@@ -1,0 +1,51 @@
+Removed Pin From Net: NetName=N Pin=C?-1
+Change Component Designator: OldDesignator=C? NewDesignator=C1
+Change Component Designator: OldDesignator=C? NewDesignator=C2
+Change Component Designator: OldDesignator=C? NewDesignator=C3
+Change Component Designator: OldDesignator=D? NewDesignator=D1
+Change Component Designator: OldDesignator=D? NewDesignator=D2
+Change Component Designator: OldDesignator=J? NewDesignator=J1
+Change Component Designator: OldDesignator=P? NewDesignator=P1
+Change Component Designator: OldDesignator=P? NewDesignator=P2
+Change Component Designator: OldDesignator=Q? NewDesignator=Q1
+Change Component Designator: OldDesignator=Q? NewDesignator=Q2
+Change Component Designator: OldDesignator=R? NewDesignator=R1
+Change Component Designator: OldDesignator=R? NewDesignator=R2
+Change Component Designator: OldDesignator=R? NewDesignator=R3
+Added Pin To Net: NetName=N Pin=C1-1
+Added Pin To Net: NetName=L Pin=C1-2
+Added Pin To Net: NetName=L Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=L Pin=D1-2
+Added Pin To Net: NetName=GND Pin=D2-1
+Added Pin To Net: NetName=L Pin=P2-1
+Added Pin To Net: NetName=GND Pin=P2-2
+Added Pin To Net: NetName=L Pin=Q1-1
+Added Pin To Net: NetName=CARGAL Pin=Q1-2
+Added Pin To Net: NetName=GND Pin=Q2-3
+Added Pin To Net: NetName=NetC3_1 Pin=C3-1
+Added Pin To Net: NetName=NetC3_1 Pin=R1-2
+Added Net: Name=NetC3_1
+Added Pin To Net: NetName=NetC3_2 Pin=C3-2
+Added Pin To Net: NetName=NetC3_2 Pin=D1-1
+Added Pin To Net: NetName=NetC3_2 Pin=D2-2
+Added Net: Name=NetC3_2
+Added Pin To Net: NetName=NetJ1_1 Pin=J1-1
+Added Pin To Net: NetName=NetJ1_1 Pin=R3-2
+Added Net: Name=NetJ1_1
+Added Pin To Net: NetName=NetQ1_3 Pin=Q1-3
+Added Pin To Net: NetName=NetQ1_3 Pin=R2-1
+Added Net: Name=NetQ1_3
+Added Pin To Net: NetName=NetQ2_1 Pin=Q2-1
+Added Pin To Net: NetName=NetQ2_1 Pin=R2-2
+Added Net: Name=NetQ2_1
+Added Pin To Net: NetName=NetQ2_2 Pin=Q2-2
+Added Pin To Net: NetName=NetQ2_2 Pin=R3-1
+Added Net: Name=NetQ2_2
+Added Member To Class: ClassName=FuenteAlimentacion Member=Component C2 Cap Pol1
+Added Member To Class: ClassName=FuenteAlimentacion Member=Component C3 Cap
+Added Member To Class: ClassName=FuenteAlimentacion Member=Component D1 D Zener
+Added Member To Class: ClassName=FuenteAlimentacion Member=Component P1 RegletaPCB
+Added Member To Class: ClassName=FuenteAlimentacion Member=Component Q1 Triac
+Added Member To Class: ClassName=FuenteAlimentacion Member=Component R1 Res Semi
+Added Member To Class: ClassName=FuenteAlimentacion Member=Component R2 Resistor
